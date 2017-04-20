@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Implementation-Title: score-front Maven Webapp
-Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: hzwdx
-Implementation-Vendor-Id: score-front
-Created-By: IntelliJ IDEA
-Build-Jdk: 1.8.0_121
-Main-Class: ${start-class}
-
